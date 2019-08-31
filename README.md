@@ -4,7 +4,7 @@ Instructions
 
 yum -y update
 
-yum install -y aws-cli
+yum install -y aws-cli ruby
 
 cd /home/ec2-user
 
